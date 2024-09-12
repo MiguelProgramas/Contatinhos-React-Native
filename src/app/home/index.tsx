@@ -10,7 +10,7 @@ import { useId } from "react";
 
 type SectionListDataProps = {
     title: string
-    data: ContactProps
+    data: ContactProps[]
 }
 
 
