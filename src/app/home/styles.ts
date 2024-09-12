@@ -37,5 +37,17 @@ export const styles = StyleSheet.create({
         height: 1,
         backgroundColor: theme.colors.gray_300,
         margin: 12
+    },
+    bottomSheetContent: {
+
+    },
+    contactName: {
+
+    },
+    phoneNumber: {
+
+    },
+    phone: {
+        
     }
 })
